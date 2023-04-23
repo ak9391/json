@@ -19,7 +19,7 @@ let artList = [
     name: "NY State of Mind",
     medium: "Medium: Acrylic paint on Canvas",
     date: "Date: March 2021",
-    description: "Description: Photorealistic painting of a NYC street. Some facts about this painting: I still haven't completed the painting because one side of the painting is not alligned with the other so I just cropped the painting. I painted this back in 2021 and in 2022 I was able to visit this street.",
+    description: "Description: Photorealistic painting of a NYC street. Some facts about this painting: I still haven't completed the painting because one side of the painting is not alligned with the other so I just cropped the painting. I painted this back in 2021 and in 2022 I visited this street.",
     image: "nyc.png"
   },
 ];
