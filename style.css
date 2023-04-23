@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body{
+  background: black;
+  padding: 1%;
+}
+
+h1{
+  color: white;
+  font-size: 4em;
+  font-family: 'Rubik Mono One';
+  display: flex;
+  justify-content: center;
+}
+
+h3{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Rubik Mono One';
+}
+
+#contentGrid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-gap: 2%;
+    margin: 2%;
+    padding: 2%;
+    color: white;
+    font-family: 'Rubik';
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.artImage {
+  display: flex;
+  max-width: 100%;
+  height: auto;
+}
